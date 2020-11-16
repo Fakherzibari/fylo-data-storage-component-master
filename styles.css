@@ -1,0 +1,62 @@
+body {
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+  background-color: hsl(229, 57%, 11%);
+}
+
+.logo {
+  background-color: hsl(228, 56%, 26%);
+  display: inline-block;
+  padding: 30px;
+  width: 200px;
+  border-top-right-radius: 35%;
+}
+
+.logo1 {
+  margin: 5px 5px 10px 5px;
+}
+
+.doc {
+  padding: 8px;
+  background-color: hsl(229, 57%, 11%);
+  margin-left: 10px;
+  height: 20px;
+  border-radius: 25%;
+}
+
+.bar {
+  color: white;
+  width: 300px;
+  background-color: hsl(228, 56%, 26%);
+  display: inline-block;
+  padding: 30px;
+  margin-left: 25px;
+  border-radius: 2%;
+  font-size: 10px;
+}
+
+.GBleft {
+  width: 120px;
+  font-size: 28px;
+  position: relative;
+  left: 480px;
+  bottom: 140px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 4%;
+
+}
+span{
+  color: grey;
+  font-size: 15px;
+}
+.main{
+  position: relative;
+  left: 400px;
+  top: 120px;
+}
+.gb{
+  margin-left: 232px;
+  color: white;
+  font-size: 10px;
+  }
